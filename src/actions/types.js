@@ -1,0 +1,1 @@
+export const GET_PAGES = 'pages/get_pages'

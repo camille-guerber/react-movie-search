@@ -1,0 +1,25 @@
+.active-route {
+    color: red;
+    font-weight: bold;
+  }
+  
+  .router {
+    display: inline-block;
+  }
+  
+  .router li {
+    list-style: none;
+    float: left;
+    padding: 1rem;
+    background-color: darkgray;
+    margin-right: 1rem;
+  }
+  
+  .router a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .router a:hover {
+    text-decoration: none;
+  }
